@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+.round-button{
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px;
+    padding: 7px 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+table.table-striped > .thead-dark > tr > th:hover{
+    color: #AABBCC;
+    cursor: pointer;
+}
